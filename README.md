@@ -1,0 +1,1 @@
+Clone the Git repository to your local machine using the following command: git clone https://github.com/yourusername/your-repository.git
